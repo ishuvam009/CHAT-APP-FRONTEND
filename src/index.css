@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(blue.jpg);
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(https://github.com/ishuvam009/CHAT-APP-FRONTEND/blob/main/public/blue.jpg);
     background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
